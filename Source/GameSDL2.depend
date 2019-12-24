@@ -1,0 +1,861 @@
+# depslib dependency file v1.0
+1557530809 source:c:\users\tuoit\desktop\new folder\gamesdl2\commonfunc.cpp
+	"CommonFunc.h"
+
+1557617006 c:\users\tuoit\desktop\new folder\gamesdl2\commonfunc.h
+	<windows.h>
+	<string>
+	<time.h>
+	<vector>
+	<math.h>
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_config.h
+	"SDL_platform.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\begin_code.h
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\close_code.h
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2-2.0.8\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519878872 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2_image-2.0.3\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508722390 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2_mixer-2.0.2\include\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454308948 c:\users\tuoit\desktop\new folder\gamesdl2\libsdl2\sdl2_ttf-2.0.14\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1557616172 source:c:\users\tuoit\desktop\new folder\gamesdl2\main.cpp
+	<windows.h>
+	<iostream>
+	"CommonFunc.h"
+	"BaseObject.h"
+	"game_map.h"
+	"PlayerObject.h"
+	"Timer.h"
+	"ThreatObject.h"
+	"FontObject.h"
+
+1557034203 c:\users\tuoit\desktop\new folder\gamesdl2\baseobject.h
+	"CommonFunc.h"
+
+1557046262 source:c:\users\tuoit\desktop\new folder\gamesdl2\baseobject.cpp
+	"BaseObject.h"
+
+1557567773 source:c:\users\tuoit\desktop\new folder\gamesdl2\game_map.cpp
+	"game_map.h"
+
+1557597282 c:\users\tuoit\desktop\new folder\gamesdl2\game_map.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1557616189 c:\users\tuoit\desktop\new folder\gamesdl2\playerobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	"FontObject.h"
+
+1557610507 source:c:\users\tuoit\desktop\new folder\gamesdl2\playerobject.cpp
+	"PlayerObject.h"
+
+1557042347 c:\users\tuoit\desktop\new folder\gamesdl2\timer.h
+
+1557042325 source:c:\users\tuoit\desktop\new folder\gamesdl2\timer.cpp
+	"Timer.h"
+	"CommonFunc.h"
+
+1557500814 c:\users\tuoit\desktop\new folder\gamesdl2\bulletobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1557500700 source:c:\users\tuoit\desktop\new folder\gamesdl2\bulletobject.cpp
+	"BulletObject.h"
+
+1557609035 source:c:\users\tuoit\desktop\new folder\gamesdl2\threatobject.cpp
+	"ThreatObject.h"
+
+1557616510 c:\users\tuoit\desktop\new folder\gamesdl2\threatobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1557616429 source:c:\users\tuoit\desktop\new folder\gamesdl2\fontobject.cpp
+	"FontObject.h"
+
+1557616555 c:\users\tuoit\desktop\new folder\gamesdl2\fontobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1557046262 source:c:\users\tuoit\desktop\new folder\gamesdl2\source\baseobject.cpp
+	"BaseObject.h"
+
+1557034203 c:\users\tuoit\desktop\new folder\gamesdl2\source\baseobject.h
+	"CommonFunc.h"
+
+1557617006 c:\users\tuoit\desktop\new folder\gamesdl2\source\commonfunc.h
+	<windows.h>
+	<string>
+	<time.h>
+	<vector>
+	<math.h>
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_config.h
+	"SDL_platform.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\begin_code.h
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\close_code.h
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519868328 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2-2.0.8\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519878872 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2_image-2.0.3\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508722390 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2_mixer-2.0.2\include\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454308948 c:\users\tuoit\desktop\new folder\gamesdl2\source\libsdl2\sdl2_ttf-2.0.14\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1557500700 source:c:\users\tuoit\desktop\new folder\gamesdl2\source\bulletobject.cpp
+	"BulletObject.h"
+
+1557500814 c:\users\tuoit\desktop\new folder\gamesdl2\source\bulletobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1557530809 source:c:\users\tuoit\desktop\new folder\gamesdl2\source\commonfunc.cpp
+	"CommonFunc.h"
+
+1557616429 source:c:\users\tuoit\desktop\new folder\gamesdl2\source\fontobject.cpp
+	"FontObject.h"
+
+1557616555 c:\users\tuoit\desktop\new folder\gamesdl2\source\fontobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1557567773 source:c:\users\tuoit\desktop\new folder\gamesdl2\source\game_map.cpp
+	"game_map.h"
+
+1557597282 c:\users\tuoit\desktop\new folder\gamesdl2\source\game_map.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1557826804 source:c:\users\tuoit\desktop\new folder\gamesdl2\source\main.cpp
+	<windows.h>
+	<iostream>
+	"CommonFunc.h"
+	"BaseObject.h"
+	"game_map.h"
+	"PlayerObject.h"
+	"Timer.h"
+	"ThreatObject.h"
+	"FontObject.h"
+
+1557824010 c:\users\tuoit\desktop\new folder\gamesdl2\source\playerobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	"FontObject.h"
+
+1557042347 c:\users\tuoit\desktop\new folder\gamesdl2\source\timer.h
+
+1557616510 c:\users\tuoit\desktop\new folder\gamesdl2\source\threatobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1557610507 source:c:\users\tuoit\desktop\new folder\gamesdl2\source\playerobject.cpp
+	"PlayerObject.h"
+
+1557609035 source:c:\users\tuoit\desktop\new folder\gamesdl2\source\threatobject.cpp
+	"ThreatObject.h"
+
+1557042325 source:c:\users\tuoit\desktop\new folder\gamesdl2\source\timer.cpp
+	"Timer.h"
+	"CommonFunc.h"
+
